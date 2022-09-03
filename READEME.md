@@ -1,0 +1,1 @@
+solution for codewars problem "Build A Square". takes an integer and creates a square grid of the integer using the '+' symbol.
